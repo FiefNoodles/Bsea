@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "jackett addon",
   "main": "index.js",
-  "repository": "https://github.com/mikmcdanbyeee55/bitsearch.git",
+  "repository": "https://github.com/FiefNoodles/Bsea.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
